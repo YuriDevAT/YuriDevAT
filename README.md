@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
+- 🔭 I’m currently working remotely on a smart shopping app in an African/European team of four developers
+- 🌱 I’m currently learning React
+
 <!--
 **YuriDevAT/YuriDevAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

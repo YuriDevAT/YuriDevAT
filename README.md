@@ -4,12 +4,12 @@
 
 I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 
-🔭 I’m currently enrolled ... in Udacity Bertelsmann Scholarship for AI in business
-😄 I'm currently working ... remotely on a smart shopping app in an African/European team of four developers 
-🌱 I’m currently learning ... JavaScript & React, SCRUM
-🤔 I’m looking for help with ... JavaScript ;)
-💬 Ask me about ... my passion of Japanese & Korean culture and film(music)
-⚡ Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka :nerd_face:
+- 🔭 I’m currently enrolled ... in Udacity Bertelsmann Scholarship for AI in business
+- 😄 I'm currently working ... remotely on a smart shopping app in an African/European team of four developers 
+- 🌱 I’m currently learning ... JavaScript & React, SCRUM
+- 🤔 I’m looking for help with ... JavaScript ;)
+- 💬 Ask me about ... my passion of Japanese & Korean culture and film(music)
+- ⚡ Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka :nerd_face:
 
 Take look at my codepen portfolio: [Click here :smile:](https://codepen.io/saliainred)
 

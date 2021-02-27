@@ -11,7 +11,7 @@ I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 - 💬 Ask me about ... my passion of Japanese & Korean culture and film(music)
 - ⚡ Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka :nerd_face:
 
-Take look at my codepen portfolio: [Click here :smile:](https://codepen.io/saliainred)
+Take look at my codepen portfolio: [Click here :smile:](https://codepen.io/YuriDevAT)
 
 
 

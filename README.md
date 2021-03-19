@@ -12,6 +12,8 @@ I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 <a href="https://www.linkedin.com/in/juliaundeutsch"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 </p>
+⌚︎ Timezone: Europe/Vienna
+<br />
 
 - 😄 I'm currently working ... on a Mobile App using React Native 
 - 🌱 I’m currently learning ... React | NextJS
@@ -34,3 +36,4 @@ I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 
 <br />
 <br />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>

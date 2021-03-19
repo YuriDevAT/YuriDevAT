@@ -4,11 +4,6 @@
   <h1 align="center"><b>Hi there, I'm Julia 👋</b></h1>
 </p>
 
-I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
-<br />
-⌚︎ Timezone: Europe/Vienna
-<br />
-
 <p align="center">
 <br />
 <!--<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;-->
@@ -18,6 +13,9 @@ I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 </p>
 
+<br />
+
+### I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 <br />
 
 - 😄 I'm currently working ... on a Mobile App using React Native 
@@ -46,3 +44,6 @@ I am Julia, a frontend developer based in the beautiful city Vienna  :bowtie:
 <br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<br />
+⌚︎ Timezone: Europe/Vienna

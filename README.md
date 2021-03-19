@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate with ... someone who is interested in art / music
 - 🤔 I’m looking for help with ... parallex effect & animation
 - 💬 Ask me about ... my passion of Japanese & Korean culture and film(music)
-- ⚡ Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka :nerd_face:
+- ⚡ Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka
 
 <br />
 

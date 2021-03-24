@@ -56,9 +56,24 @@
 
 <br />
 <br />
+
 <h2 align="center">Some of my favorite projects</h2>
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex)](https://github.com/YuriDevAT/pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner)](https://github.com/YuriDevAT/budget-planner)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aYuriDevAT)](https://github.com/anuraghazra/github-readme-stats)
-![Julias GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true)
+
+<a href="https://github.com/YuriDevAT/pokedex">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/budget-planner">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner&theme=tokyonight" />
+</a>
+
+<br />
+<br />
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" />
+</a>
+
+<!--<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" />
+</a>-->

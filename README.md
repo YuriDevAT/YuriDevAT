@@ -64,15 +64,20 @@
 <h2 align="center">Some of my favorite projects 😇</h2>
 <br />
 
+<p align="center">
 <a href="https://github.com/YuriDevAT/pokedex">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex&theme=tokyonight" />
 </a>
 <a href="https://github.com/YuriDevAT/budget-planner">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner&theme=tokyonight" />
 </a>
+</p>
 
 <br />
 <br />
+<br />
+<br />
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" />
 </p>

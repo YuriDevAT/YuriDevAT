@@ -72,7 +72,9 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner&theme=tokyonight" />
 </a>
 </p>
+
 ---
+
 <br />
 
 <p align="center">

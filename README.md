@@ -17,7 +17,7 @@
 
 <p>
   <h2 align="center"> :bowtie: I am Julia, a frontend developer based in the beautiful city Vienna :bowtie: </h2>
-  </p>
+</p>
 <br />
 
 - 😄 I'm currently working ... on a Mobile App using React Native 
@@ -49,15 +49,19 @@
 <br />
 <br />
 
+<p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
 <br />
 <br />
+<p align="center">
 ⌚︎ Timezone: Europe/Vienna (GMT +1)
+</p>
 
 <br />
 <br />
 
-<h2 align="center">Some of my favorite projects</h2>
+<h2 align="center">Some of my favorite projects 😇</h2>
 <br />
 
 <a href="https://github.com/YuriDevAT/pokedex">
@@ -69,11 +73,9 @@
 
 <br />
 <br />
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" />
-</a>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" />
+</p>
 <!--<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" />
 </a>-->

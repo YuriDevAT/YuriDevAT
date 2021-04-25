@@ -20,8 +20,8 @@
 </p>
 <br />
 
-- 😄 I'm currently working ... on my portfolio using NextJS
-- 🌱 I’m currently learning ... NextJS | TypeScript
+- 😄 I'm currently working ... on my portfolio and an app for rescuing abandoned animals in Rumania using React
+- 🌱 I’m currently learning ... React, NextJS
 - 👯 I’m looking to collaborate with ... someone who is interested in art / music
 - 🤔 I’m looking for help with ... parallex effect & animation
 - 💬 Ask me about ... my passion of Japanese & Korean culture and film(music)

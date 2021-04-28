@@ -72,10 +72,11 @@
 <h2 align="center">My figma projects 😇</h2>
 <br />
 
-<a href="https://www.figma.com/proto/ybE1syJel4xh4Vyt8RNnqY/Teamy-Copy?node-id=79%3A1589&scaling=contain&page-id=0%3A1"><img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/teamy.png" width="400" /> </a>
+<a href="https://www.figma.com/proto/ybE1syJel4xh4Vyt8RNnqY/Teamy-Copy?node-id=79%3A1589&scaling=contain&page-id=0%3A1">
+  <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/teamy.png" width="400" /> </a>
 <p>This project is a design made with Figma for a team <br/>
   management software for companys. By clicking the<br />
-  picture you will be directed to a live view of the project
+  picture you will be directed to a live view of the project.
 </p>
 
 <br />

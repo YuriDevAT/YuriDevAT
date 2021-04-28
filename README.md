@@ -1,7 +1,7 @@
 <!--![Header](https://github.com/YuriDevAT/YuriDevAT/blob/main/Blue%20Skyline%20Details%20General%20LinkedIn%20Banner.png)-->
 
 <p>
-  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=1H1M4tSYBAJPnIuuK_FJ2iWnfyNfyG8Xr" width="60"></h1>
+  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=1H1M4tSYBAJPnIuuK_FJ2iWnfyNfyG8Xr" width="30"></h1>
 </p>
 <br />
 <p align="center">

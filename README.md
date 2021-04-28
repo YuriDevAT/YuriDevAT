@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=1H1M4tSYBAJPnIuuK_FJ2iWnfyNfyG8Xr" alt=":bowtie:" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=1H1M4tSYBAJPnIuuK_FJ2iWnfyNfyG8Xr" alt="" width="30"></h1>
 </p>
 <br />
 <p align="center">
@@ -71,8 +71,12 @@
 
 <h2 align="center">My figma projects 😇</h2>
 <br />
-<img src="" />
-<a href="https://www.figma.com/proto/ybE1syJel4xh4Vyt8RNnqY/Teamy-Copy?node-id=79%3A1589&scaling=contain&page-id=0%3A1"><img src="" /> </a>
+
+<a href="https://www.figma.com/proto/ybE1syJel4xh4Vyt8RNnqY/Teamy-Copy?node-id=79%3A1589&scaling=contain&page-id=0%3A1"><img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/teamy.png" width="400" /> </a>
+<p>This project is a design made with Figma for a team <br/>
+  management software for companys. By clicking the<br />
+  picture you will be directed to a live view of the project
+</p>
 
 <br />
 <br />

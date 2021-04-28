@@ -29,7 +29,7 @@
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music <br />
 :dizzy_face: I’m looking for help with ... Google Firebase, NodeJS <br />
 :musical_score: Ask me about ... my passion of Japanese & Korean culture and film(music) <br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka <br />
+:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I want to become a developer and work in Vienna, Seoul or Fukuoka <br />
 
 <br />
 

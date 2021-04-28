@@ -1,12 +1,11 @@
 <!--![Header](https://github.com/YuriDevAT/YuriDevAT/blob/main/Blue%20Skyline%20Details%20General%20LinkedIn%20Banner.png)-->
 
 <p>
-  <h1 align="center"><b>Hi there, I'm Julia 👋</b></h1>
+  <h1 align="center"><b>Hi there, I'm Julia :bowtie:</b></h1>
 </p>
 
 <p align="center">
 <br />
-<!--<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;-->
 <a href="https://www.linkedin.com/in/juliaundeutsch"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="mailto:JUndeutsch@gmx.at"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
@@ -16,17 +15,15 @@
 
 <br />
 
-<p>
-  <h2 align="center"> :bowtie: I am Julia, a frontend developer based in the beautiful city Vienna :bowtie: </h2>
-</p>
+<p>Enthusiastic Front End Developer with 7 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & strong passion for UI Design, FIGMA, TailwindCSS with the willingness to learn and master Back End Development. Scrum & Agile inspired.</p>
 <br />
 
-😄 I'm currently working ... on my portfolio and an app for rescuing abandoned animals in Rumania using React <br />
-🌱 I’m currently learning ... React, NextJS <br />
-👯 I’m looking to collaborate with ... someone who is interested in art / music <br />
-🤔 I’m looking for help with ... parallex effect & animation <br />
-💬 Ask me about ... my passion of Japanese & Korean culture and film(music) <br />
-⚡ Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka <br />
+:muscle: I'm currently working ... an app for rescuing abandoned animals in Romania using React, Google Firebase & TailwindCSS <br />
+:eyes: I’m currently learning ... NextJS <br />
+:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music <br />
+:dizzy_face: I’m looking for help with ... Google Firebase, NodeJS <br />
+:musical_score: Ask me about ... my passion of Japanese & Korean culture and film(music) <br />
+:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I want to become a programmer and work in Vienna, Seoul or Fukuoka <br />
 
 <br />
 
@@ -41,10 +38,10 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<img alt="GitHub" width="40px" backgroundColor="white" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github-11-48.png" />
+<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </p>
 
 <br />

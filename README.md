@@ -22,6 +22,8 @@
 <p>Enthusiastic Front End Developer with 7 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & strong passion for UI Design, FIGMA, TailwindCSS with the willingness to learn and master Back End Development. Scrum & Agile inspired.</p>
 <br />
 
+<p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">Smart Shopping App</a> in a remote African/European team of four developers using React, Google Firebase, and Netlify. I participated in pair programming sessions to deliver features and kept accessibility in mind to ensure everyone could use the app.</p>
+
 :muscle: I'm currently working ... an app for rescuing abandoned animals in Romania using React, Google Firebase & TailwindCSS <br />
 :eyes: I’m currently learning ... NextJS <br />
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music <br />

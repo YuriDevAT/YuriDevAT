@@ -9,9 +9,6 @@
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 </p>
-<p align="center">
-<!--⌚︎ Timezone: Europe/Vienna (CEST)-->
-</p>
 
 <br />
 
@@ -20,7 +17,7 @@
 
 <br />
 
-<h2 align="center">My favorite projects 😇</h2>
+<h2 align="center">My favorite projects 💻</h2>
 <br />
 
 <p align="center">
@@ -53,6 +50,9 @@
 <br />
 
 <h2 align="center">About me</h2>
+<p align="center">
+Timezone: Europe/Vienna (CEST)
+</p>
 <br />
 <p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">Smart Shopping App</a> in a remote African/European team of four developers using React, Google Firebase, and Netlify. I participated in pair programming sessions to deliver features and kept accessibility in mind to ensure everyone could use the app.</p>
 

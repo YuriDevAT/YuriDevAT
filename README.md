@@ -53,12 +53,12 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/YuriDevAT/instagram-clone">
+ <!-- <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
 <a href="https://github.com/YuriDevAT/Nikki-MyDiary">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-mydiary&theme=tokyonight" />
-</a>
+</a>-->
 <a href="https://github.com/YuriDevAT/pokedex">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex&theme=tokyonight" />
 </a>

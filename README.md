@@ -10,15 +10,13 @@
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 </p>
 <p align="center">
-⌚︎ Timezone: Europe/Vienna (CEST)
+<!--⌚︎ Timezone: Europe/Vienna (CEST)-->
 </p>
 
 <br />
 
 <p>Enthusiastic Front End Developer with 7 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & strong passion for UI Design, FIGMA, TailwindCSS with the willingness to learn and master Back End Development. Scrum & Agile inspired.</p>
 <br />
-
----
 
 <br />
 

@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<h2 align="center">My Figma projects 🧑‍🎨</h2>
+<h2 align="center">My Figma projects 🎨</h2>
 <br />
 
 <a href="https://www.figma.com/proto/CBZsbWlnHGKlA9yCh4ShK6/Teamy?node-id=79%3A1589&scaling=contain&page-id=0%3A1">

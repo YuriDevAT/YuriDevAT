@@ -27,6 +27,8 @@
 <a href="https://github.com/YuriDevAT/Nikki-MyDiary">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-mydiary&theme=tokyonight" />
 </a>-->
+ <img width="400" src="https://github.com/YuriDevAT/pokedex/blob/main/pokedex.PNG" />
+  <img width="400" src="https://github.com/YuriDevAT/budget-planner/blob/main/thumbnail.png" />
 <a href="https://github.com/YuriDevAT/pokedex">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex&theme=tokyonight" />
 </a>
@@ -40,12 +42,18 @@
 <h2 align="center">My Figma projects 🎨</h2>
 <br />
 
+<p align="">
 <a href="https://www.figma.com/proto/CBZsbWlnHGKlA9yCh4ShK6/Teamy?node-id=79%3A1589&scaling=contain&page-id=0%3A1">
-  <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/teamy.png" width="400" /> </a>
-<p>This project is a design made with Figma for a team <br/>
-  management software for companys. By clicking the<br />
-  picture you will be directed to a live view of the project.
+  <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/teamy.png" width="400" /> 
+</a>
+  <p>Project No1 is a design made with Figma for a team management software for companys. By clicking the picture you will be directed to a live view of the project.
 </p>
+<a><img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/sos%20animal.gif" /> </a>
+<p>
+  Project No2 is an mobile app which helps to report abandoned animals in Romania to NGO's nearby.
+</p>
+</p>
+
 <br />
 <br />
 

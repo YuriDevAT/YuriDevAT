@@ -50,7 +50,7 @@
 </p>
 <a><img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/sos%20animal.gif" /> </a>
 <p>
-  Project No2 is an mobile app which helps to report abandoned animals in Romania to NGO's nearby.
+  Project No2 is an mobile app which helps to report abandoned animals to NGO's nearby.
 </p>
 </p>
 

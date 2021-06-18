@@ -21,12 +21,14 @@
 <br />
 
 <p align="center">
- <!-- <a href="https://github.com/YuriDevAT/instagram-clone">
+  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <img width="400" src="https://github.com/YuriDevAT/Nikki-MyDiary/blob/main/nikki.png" />
+ <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
 <a href="https://github.com/YuriDevAT/Nikki-MyDiary">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-mydiary&theme=tokyonight" />
-</a>-->
+</a>
  <img width="400" src="https://github.com/YuriDevAT/pokedex/blob/main/pokedex.PNG" />
   <img width="400" src="https://github.com/YuriDevAT/budget-planner/blob/main/thumbnail.png" />
 <a href="https://github.com/YuriDevAT/pokedex">

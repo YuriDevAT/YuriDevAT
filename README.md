@@ -111,4 +111,5 @@ Timezone: Europe/Vienna (CEST)
 <!-- BLOG-POST-LIST:START -->
 - [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)
 - [Why to choose NextJS for future projects](https://dev.to/yuridevat/why-to-choose-nextjs-for-future-projects-4k8o)
+- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
 <!-- BLOG-POST-LIST:END -->

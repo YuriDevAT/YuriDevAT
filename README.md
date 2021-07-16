@@ -12,7 +12,7 @@
 
 <br />
 
-<p>Enthusiastic Front End Developer with 8 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & strong passion for UI Design, FIGMA, TailwindCSS with the willingness to learn and master Back End Development. Scrum & Agile inspired.</p>
+<p>Enthusiastic Front End Developer with 9 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & passion for Python, with the willingness to learn and master Back End Development. Scrum & Agile inspired.</p>
 <br />
 
 <br />
@@ -66,11 +66,11 @@ Timezone: Europe/Vienna (CEST)
 <br />
 <p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">Smart Shopping App</a> in a remote African/European team of four developers using React, Google Firebase, and Netlify. I participated in pair programming sessions to deliver features and kept accessibility in mind to ensure everyone could use the app.</p>
 
-:muscle: I'm currently working ... an app for rescuing abandoned animals using React, Google Firebase & TailwindCSS <br />
-:eyes: I’m currently learning ... NextJS <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music <br />
-:dizzy_face: I’m looking for help with ... Google Firebase, NodeJS <br />
-💬 Ask me about anything related to... Figma or TailwindCSS <br />
+:muscle: I'm currently working ... on an app for rescuing abandoned animals using React, Google Firebase & TailwindCSS <br />
+:eyes: I’m currently learning ... React, Python <br />
+:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
+:dizzy_face: I’m looking for help with ... Google Firebase, Python <br />
+💬 Ask me about anything related to... Japan or my inspiration for my projects <br />
 :ghost: Fun fact: ... I studied Musicology and Japanese studies, but I want to become a developer and work in Vienna, Seoul or Fukuoka <br />
 
 <br />

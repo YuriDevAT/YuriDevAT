@@ -22,20 +22,20 @@
 
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <img width="400" src="https://github.com/YuriDevAT/Nikki-MyDiary/blob/main/nikki.png" />
+  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
  <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
-<a href="https://github.com/YuriDevAT/Nikki-MyDiary">
+  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+</a>
+  <img width="400" src="https://github.com/YuriDevAT/Nikki-MyDiary/blob/main/nikki.png" />
+ <img width="400" src="https://github.com/YuriDevAT/pokedex/blob/main/pokedex.PNG" />
+  <a href="https://github.com/YuriDevAT/Nikki-MyDiary">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-mydiary&theme=tokyonight" />
 </a>
- <img width="400" src="https://github.com/YuriDevAT/pokedex/blob/main/pokedex.PNG" />
-  <img width="400" src="https://github.com/YuriDevAT/budget-planner/blob/main/thumbnail.png" />
 <a href="https://github.com/YuriDevAT/pokedex">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/budget-planner">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner&theme=tokyonight" />
 </a>
 </p>
 <br />

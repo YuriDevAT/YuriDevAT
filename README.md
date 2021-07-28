@@ -50,7 +50,7 @@
 </a>
   <p>Project No1 is a design made with Figma for a team management software for companys. By clicking the picture you will be directed to a live view of the project.
 </p>
-<a><img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/sos%20animal.gif" /> </a>
+<a><img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/sos-animal.gif" /> </a>
 <p>
   Project No2 is an mobile app which helps to report abandoned animals to NGO's nearby.
 </p>

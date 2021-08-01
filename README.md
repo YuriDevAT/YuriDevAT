@@ -62,7 +62,7 @@ Timezone: Europe/Vienna (CEST)
 <br />
 <p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">Smart Shopping App</a> in a remote African/European team of four developers using React, Google Firebase, and Netlify. I participated in pair programming sessions to deliver features and kept accessibility in mind to ensure everyone could use the app.</p>
 
-:muscle: I'm currently working ... on an app for rescuing abandoned animals using React, Google Firebase & TailwindCSS <br />
+:muscle: I'm currently working ... on an online diary to improve your japanese skills using React and Google Firebase <br />
 :eyes: I’m currently learning ... React, Python <br />
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
 :dizzy_face: I’m looking for help with ... Google Firebase, Python <br />

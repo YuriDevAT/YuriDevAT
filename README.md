@@ -12,7 +12,7 @@
 
 <br />
 
-<p>Enthusiastic Front End Developer with 9 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & passion for UI Design using Figma, TailwindCSS, with the willingness to learn and master Back End Development. A11Y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Front End Developer with 9 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & passion for UI Design using Figma, TailwindCSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
 <br />
 
 <br />

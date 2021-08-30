@@ -12,7 +12,7 @@
 
 <br />
 
-<p>Enthusiastic Front End Developer with 9 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS & passion for UI Design using Figma, TailwindCSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
 <br />
 
 <br />
@@ -37,19 +37,6 @@
 <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
-</p>
-<br />
-<br />
-
-<h2 align="center">My Figma projects 🎨</h2>
-<br />
-
-<p align="">
-<a href="https://www.figma.com/proto/CBZsbWlnHGKlA9yCh4ShK6/Teamy?node-id=79%3A1589&scaling=contain&page-id=0%3A1">
-  <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/teamy.png" width="400" /> 
-</a>
-  <p>Project No1 is a design made with Figma for a team management software for companys. By clicking the picture you will be directed to a live view of the project.
-</p>
 </p>
 
 <br />
@@ -105,6 +92,7 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
 - [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
 - [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
 - [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)

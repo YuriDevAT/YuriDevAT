@@ -47,7 +47,7 @@
 Timezone: Europe/Vienna (CEST)
 </p>
 <br />
-<p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the the Runner Up Winners. 🥳</p>
+<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the the Runner Up Winners. 🥳</p>
 
 :muscle: I am currently working on mastering the backend to convert my current frontend projects to fullstack projects.<br />
 :eyes: I’m currently learning ... Backend <br />

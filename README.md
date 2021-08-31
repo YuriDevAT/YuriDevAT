@@ -47,12 +47,12 @@
 Timezone: Europe/Vienna (CEST)
 </p>
 <br />
-<p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">Smart Shopping App</a> in a remote African/European team of four developers using React, Google Firebase, and Netlify. I participated in pair programming sessions to deliver features and kept accessibility in mind to ensure everyone could use the app.</p>
+<p>In my latest project, I created a <a href="https://github.com/the-collab-lab/tcl-19-smart-shopping-list">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the the Runner Up Winners. 🥳</p>
 
-:muscle: I'm currently working ... on an online diary to improve your japanese skills using React and Google Firebase <br />
-:eyes: I’m currently learning ... React, Python <br />
+:muscle: I am currently working on mastering the backend to convert my current frontend projects to fullstack projects.<br />
+:eyes: I’m currently learning ... Backend <br />
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... Google Firebase, Python <br />
+:dizzy_face: I’m looking for help with ... Backend, like Google Firebase, MongoDB, MySQL or Node.js<br />
 💬 Ask me about anything related to... Japan or my inspiration for my projects <br />
 :ghost: Fun fact: ... I studied Musicology and Japanese studies, but I want to become a developer and work in Vienna, Seoul or Fukuoka <br />
 

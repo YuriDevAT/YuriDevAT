@@ -1,7 +1,6 @@
 <p>
   <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=1H1M4tSYBAJPnIuuK_FJ2iWnfyNfyG8Xr" alt="" width="30"></h1>
 </p>
-<br />
 <p align="center">
 <a href="https://www.linkedin.com/in/juliaundeutsch"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
@@ -15,7 +14,9 @@
 
 <p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
 <br />
-
+<p align="center"><a href="buymeacoffee.com/YuriDevAT"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="buy me a coffee" /></a></p>
+<br />
+  My personal website: https://julia-undeutsch.netlify.app/
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>

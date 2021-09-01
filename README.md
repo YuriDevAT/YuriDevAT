@@ -14,8 +14,9 @@
 
 <p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
 <br />
+
+My personal website: https://julia-undeutsch.netlify.app/
 <br />
-  My personal website: https://julia-undeutsch.netlify.app/
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>

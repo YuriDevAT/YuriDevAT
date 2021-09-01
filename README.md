@@ -14,7 +14,7 @@
 
 <p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
 <br />
-<p align="center"><a href="buymeacoffee.com/YuriDevAT"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="buy me a coffee" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/YuriDevAT"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="buy me a coffee" /></a></p>
 <br />
   My personal website: https://julia-undeutsch.netlify.app/
 <br />

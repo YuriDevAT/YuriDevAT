@@ -13,7 +13,7 @@
 
 <br />
 
-<p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS, with the willingness to learn and master Back End Development. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS. Currently learning GraphQL & AWS Amplify. a11y minded. Scrum & Agile inspired.</p>
 <br />
 <br />
 <br />
@@ -51,9 +51,9 @@ Timezone: Europe/Vienna (CEST)
 <p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
 
 :muscle: I am currently working on mastering the backend to convert my current frontend projects to fullstack projects.<br />
-:eyes: I’m currently learning ... Backend <br />
+:eyes: I’m currently learning ... GraphQL & AWS Amplify <br />
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... Backend, like Google Firebase, MongoDB, MySQL or Node.js<br />
+:dizzy_face: I’m looking for help with ... GraphQL & AWS Amplify<br />
 💬 Ask me about anything related to... Japan or my inspiration for my projects <br />
 :ghost: Fun fact: ... I studied Musicology and Japanese studies, but I want to become a developer and work in Vienna, Seoul or Fukuoka <br />
 

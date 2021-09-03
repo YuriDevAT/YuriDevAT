@@ -9,12 +9,9 @@
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
 </p>
-
 <br />
 
 <p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS. Currently learning GraphQL & AWS Amplify. a11y minded. Scrum & Agile inspired.</p>
-<br />
-<br />
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -39,7 +36,6 @@
 </a>
 </p>
 
-<br />
 <br />
 
 <h2 align="center">About me 😇</h2>
@@ -67,11 +63,11 @@ Timezone: Europe/Vienna (CEST)
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>
+<!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
    </p>
 <br />
 <p align="center">

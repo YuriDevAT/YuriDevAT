@@ -11,7 +11,7 @@
 </p>
 <br />
 
-<p>Enthusiastic Front End Developer with 11 months of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS. Currently learning GraphQL & AWS Amplify. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Front End Developer with 1 year of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, TypeScript, HTML/CSS. TailwindCSS, SCSS. a11y minded. Scrum & Agile inspired.</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>

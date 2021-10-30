@@ -14,4 +14,4 @@ jobs:
       - uses: yuridevat/blog-post-workflow@main
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/yuridevat"
+          feed_list: "https://dev.to/feed/kiransbaliga"

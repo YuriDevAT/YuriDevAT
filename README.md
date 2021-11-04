@@ -9,7 +9,6 @@
 </p>
 <br />
 
-<p> 🔥 woman in her 30s who switched careers into tech and now helps others do the same ✍️ posting about soft skills and web dev React | 🇦🇹 🇯🇵</p>
 <p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
 <br />
 

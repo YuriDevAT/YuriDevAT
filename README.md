@@ -86,6 +86,7 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a professional LinkedIn profile](https://dev.to/yuridevat/how-to-create-a-professional-linkedin-profile-2n11)
 - [How to create a stunning GitHub Profile](https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5)
 - [How to write a promising CV](https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih)
 - [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)

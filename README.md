@@ -86,9 +86,10 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a stunning GitHub Profile](https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5)
+- [How to write a promising CV](https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih)
 - [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
 - [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
-- [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)
-- [Why to choose NextJS for future projects](https://dev.to/yuridevat/why-to-choose-nextjs-for-future-projects-4k8o)
+
+... [READ MORE](https://dev.to/yuridevat)
 <!-- BLOG-POST-LIST:END -->

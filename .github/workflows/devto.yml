@@ -1,0 +1,18 @@
+name: Latest dev.to blog posts
+on: 
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEV"
+          feed_list: "https://dev.to/feed/yuridevat"
+          commit_message: "Update dev.to blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

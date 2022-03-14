@@ -1,8 +1,9 @@
 name: Latest dev.to blog posts
-on: 
+on:
   schedule:
     # Once a day at 8 AM
-    - cron: 0 8 * * *
+    - cron: 0 0 * * *
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -12,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "DEV"
-          feed_list: "https://dev.to/feed/yuridevat"
-          commit_message: "Update dev.to blog posts"
+          comment_tag_name: 'DEV'
+          feed_list: 'https://dev.to/feed/yuridevat'
+          commit_message: 'Update dev.to blog posts'
           gh_token: ${{ secrets.GITHUB_TOKEN }}

@@ -21,8 +21,8 @@
  <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
-  <a href="">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=the-collab-lab&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />

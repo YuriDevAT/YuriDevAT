@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [How I made an a11y failed sidenav fully accessible by simply using semantic HTML](https://dev.to/yuridevat/how-i-made-a-a11y-failed-sidenav-fully-accessible-23eg)
 - [How I want to become a better programmer in 2022 - First Quarter](https://dev.to/yuridevat/how-i-want-to-become-a-better-programmer-in-2022-first-quarter-3472)
 - [How I want to get from a11y minded to a11y expert](https://dev.to/yuridevat/how-i-want-to-get-from-a11y-minded-to-a11y-expert-edc)
 - [Communication for devs](https://dev.to/yuridevat/communication-for-devs-31bm)
 - [Git Commands I&#39;m using in my current project &lpar;which make me feel like a Pro 🤓&rpar;](https://dev.to/yuridevat/git-commands-im-using-in-my-current-project-which-make-me-feel-like-a-pro--42ig)
-- [What&#39;s a Git workflow](https://dev.to/yuridevat/whats-a-git-workflow-2ncm)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

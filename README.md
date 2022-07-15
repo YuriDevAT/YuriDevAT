@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Benefits of accessible design](https://dev.to/yuridevat/benefits-of-accessible-design-4m2a)
 - [Myths and misconceptions about accessibility](https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab)
 - [Web accessibility for better togetherness](https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof)
 - [Accessibility: The What, Why &amp; How](https://dev.to/yuridevat/accessibility-the-what-why-how-3034)
 - [How to be productive and deal with time management](https://dev.to/yuridevat/how-to-be-productive-and-deal-with-time-management-55p1)
-- [Last day at my project: A reflection post](https://dev.to/yuridevat/last-day-at-my-project-a-reflection-post-540h)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

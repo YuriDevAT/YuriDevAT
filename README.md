@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [The 7 Principles of Universal Design](https://dev.to/yuridevat/the-7-principles-of-universal-design-1nm4)
 - [Challenges and solutions for people with disabilities](https://dev.to/yuridevat/challenges-and-solutions-for-people-with-disabilities-4m8a)
 - [POUR - The 4 Web accessibility principles](https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp)
 - [Benefits of accessible design](https://dev.to/yuridevat/benefits-of-accessible-design-4m2a)
 - [Myths and misconceptions about accessibility](https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab)
-- [Web accessibility for better togetherness](https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

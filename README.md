@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Accessibility Laws](https://dev.to/yuridevat/accessibility-laws-do9)
 - [Usability &amp; Accessibility: Commonalities and Differences](https://dev.to/yuridevat/usability-accessibility-commonalities-and-differences-108d)
 - [Accessibility Check #1](https://dev.to/yuridevat/accessibility-check-1-3c38)
 - [How To Create A Timer With React](https://dev.to/yuridevat/how-to-create-a-timer-with-react-7b9)
 - [The 7 Principles of Universal Design](https://dev.to/yuridevat/the-7-principles-of-universal-design-1nm4)
-- [Challenges and solutions for people with disabilities](https://dev.to/yuridevat/challenges-and-solutions-for-people-with-disabilities-4m8a)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

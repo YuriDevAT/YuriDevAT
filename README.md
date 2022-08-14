@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Figma: Hover Effect by Swapping Overlays](https://dev.to/yuridevat/figma-hover-effect-by-swapping-overlays-nhe)
 - [Integrating Accessibility In The Web Development Process](https://dev.to/yuridevat/integrating-accessibility-in-the-web-development-process-bek)
 - [Accessibility Laws](https://dev.to/yuridevat/accessibility-laws-do9)
 - [Usability &amp; Accessibility: Commonalities and Differences](https://dev.to/yuridevat/usability-accessibility-commonalities-and-differences-108d)
 - [Accessibility Check #1](https://dev.to/yuridevat/accessibility-check-1-3c38)
-- [How To Create A Timer With React](https://dev.to/yuridevat/how-to-create-a-timer-with-react-7b9)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

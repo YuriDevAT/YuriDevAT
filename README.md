@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [How I got my first job as a developer by making simple projects seem big](https://dev.to/yuridevat/how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi)
 - [Accessibility Check #2](https://dev.to/yuridevat/accessibility-check-2-195p)
 - [Java SE 8 Programmer I 1Z0-808 Certificate](https://dev.to/yuridevat/java-se-8-programmer-i-1z0-808-2lm8)
 - [Figma: Hover Effect by Swapping Overlays](https://dev.to/yuridevat/figma-hover-effect-by-swapping-overlays-nhe)
 - [Integrating Accessibility In The Web Development Process](https://dev.to/yuridevat/integrating-accessibility-in-the-web-development-process-bek)
-- [Accessibility Laws](https://dev.to/yuridevat/accessibility-laws-do9)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

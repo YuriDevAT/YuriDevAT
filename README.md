@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Q&amp;A: Who Is Responsible For Accessibility](https://dev.to/yuridevat/qa-who-is-responsible-for-accessibility-3ep2)
 - [Am I Ready To Apply For Jobs?](https://dev.to/yuridevat/am-i-ready-to-apply-for-jobs-1k9l)
 - [&quot;Elderly&quot;, a meeting app for older people](https://dev.to/yuridevat/elderly-a-meeting-app-for-older-people-4gjb)
 - [How Inspiring A Company Can Be](https://dev.to/yuridevat/how-inspiring-a-company-can-be-4lj8)
 - [Accessibility Testing Tools](https://dev.to/yuridevat/accessibility-testing-tools-4d4g)
-- [How I got my first job as a developer by making simple projects seem big](https://dev.to/yuridevat/how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

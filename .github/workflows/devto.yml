@@ -16,5 +16,5 @@ jobs:
           feed_list: 'https://dev.to/feed/yuridevat'
           commit_message: 'Update dev.to blog posts'
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          template: "- `$date` | [$title]($url)  $newline"
+          template: "- `$date` | [$title]($url) $newline"
           date_format: yyyy-mm-dd

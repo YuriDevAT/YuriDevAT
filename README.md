@@ -93,4 +93,4 @@ Timezone: Europe/Vienna (CEST)
 - [Accessibility Testing Tools](https://dev.to/yuridevat/accessibility-testing-tools-4d4g)
 <!-- DEV:END -->
 
-... [READ MORE](https://dev.to/yuridevat)
+... [READ MORE articles on Dev.To](https://dev.to/yuridevat)

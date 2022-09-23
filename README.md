@@ -71,9 +71,6 @@ Timezone: Europe/Vienna (CEST)
 <p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
 
 <br />
-<br />
-
-<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
@@ -83,10 +80,7 @@ Timezone: Europe/Vienna (CEST)
 <p align="center">
 I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
 </p>
-<br />
 
-
----
 <br />
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 

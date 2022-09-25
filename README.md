@@ -12,7 +12,7 @@
 
 <p align="center">I am an enthusiastic selftaught Accessibility & Frontend developer since 2020.</p>
 <p>I am a mentor by 💙 helping people switching careers into tech too. Therefore, you should check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
-<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> also for beginners to contribute to.</p>
+<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are welcome.</p>
 <br />
 
 <h3 align="center"> 💼 Languages and Tools</h3>

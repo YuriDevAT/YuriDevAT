@@ -13,7 +13,7 @@
 <p align="center">I am an enthusiastic selftaught Accessibility & Frontend developer since 2020.</p>
 <p>I am a mentor by 💙 helping people switching careers into tech too. Therefore, you should check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
 
-<h3 align="center">💟 Open Source</h3>
+<h3 align="center">💟 Open Source & Community</h3>
 <br />
 <p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are welcome.</p>
 <br />
@@ -63,12 +63,10 @@
 <br />
 
 <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
 
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p>🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>.</p>
+<p>🥳 One of the Runner Ups (out of over 30) at Clerk x Hashnode Hackathon July 2021 with my project <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a>.</p>
 <br />
 <p>:muscle: I am currently ... helping others to get into tech too by creating content, blog posts and open source projects.</p>
 <p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>

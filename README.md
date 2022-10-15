@@ -18,8 +18,10 @@
 <p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are welcome.</p>
 <br />
 
+<div background="white">
 <a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>
 <a href="https://github.com/YurisCodingClub"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg" alt="Yuris Coding Club" width="200" /></a> 
+</div>
 
 <h3 align="center"> 💼 Languages and Tools</h3>
 

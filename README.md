@@ -93,11 +93,11 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
 <!-- DEV:START -->
+- [How to create a Pull Request](https://dev.to/yuridevat/how-to-create-a-pull-request-18a1)
 - [How I want to become a better programmer in 2022 - Part 3](https://dev.to/yuridevat/how-i-want-to-become-a-better-programmer-in-2022-part-3-59am)
 - [Importance Of Lists](https://dev.to/yuridevat/importance-of-lists-5ek6)
 - [QA Tests for Accessibility](https://dev.to/yuridevat/qa-tests-for-accessibility-4f0m)
 - [Google UX Design Certificate](https://dev.to/yuridevat/google-ux-design-certificate-1a1i)
-- [Importance of Headings](https://dev.to/yuridevat/importance-of-headings-4jgd)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

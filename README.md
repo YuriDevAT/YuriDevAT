@@ -19,7 +19,7 @@
 <br />
 
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
-![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.svg#gh-dark-mode-only)
+![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
 
 <br />
 

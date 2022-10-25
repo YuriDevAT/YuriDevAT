@@ -19,8 +19,8 @@
 <br />
 
 <div background="#ffffff">
-<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg" alt="Hacktoberfest 2022" width="200" /></a>
-<a href="https://github.com/YurisCodingClub"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg" alt="Yuris Coding Club" width="200" /></a> 
+<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg#gh-light-mode-only" alt="Hacktoberfest 2022" width="200" /></a>
+<a href="https://github.com/YurisCodingClub"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only" alt="Yuris Coding Club" width="200" /></a> 
 </div>
 
 <h3 align="center"> 💼 Languages and Tools</h3>

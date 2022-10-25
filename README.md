@@ -15,15 +15,13 @@
 
 <h3 align="center">💟 Open Source & Community</h3>
 <br />
-<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are welcome.</p>
+<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are very welcome 😇.</p>
 <br />
 
-<a href="https://hacktoberfest.com/"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg#gh-light-mode-only" alt="Hacktoberfest 2022" width="200" /></a>
-<a href="https://github.com/YurisCodingClub"><img src="https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only" alt="Yuris Coding Club" width="200" /></a> 
+![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
+![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.svg#gh-dark-mode-only)
 
-
-![Hacktoberfest](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/hacktoberfest1.svg#gh-light-mode-only)
-
+<br />
 
 <h3 align="center"> 💼 Languages and Tools</h3>
 

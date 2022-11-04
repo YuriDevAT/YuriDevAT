@@ -15,6 +15,7 @@
 
 <h3 align="center">💟 Open Source & Community</h3>
 <br />
+
 <p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are very welcome 😇.</p>
 <br />
 
@@ -103,3 +104,5 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)
 
 <p>I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝.</p>
+
+[![@yuridevat's Holopin board](https://holopin.me/yuridevat)](https://holopin.io/@yuridevat)

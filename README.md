@@ -94,11 +94,11 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
 <!-- DEV:START -->
+- [Should CFP topics stay the same?](https://dev.to/yuridevat/should-cfp-topics-stay-the-same-1ijp)
 - [Why To Focus On Accessibility](https://dev.to/yuridevat/why-to-focus-on-accessibility-10hp)
 - [Tools I Am Using On A Daily Basis](https://dev.to/yuridevat/tools-i-am-using-on-a-daily-basis-4kb7)
 - [How To Create A Resizing Header With Plain CSS](https://dev.to/yuridevat/how-to-create-a-resizing-header-with-plain-css-35gk)
 - [This was Hacktoberfest 2022](https://dev.to/yuridevat/this-was-hacktoberfest-2022-443h)
-- [Getting into Digital Humanities](https://dev.to/yuridevat/getting-into-digital-humanities-3c95)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

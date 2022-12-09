@@ -94,11 +94,11 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
 <!-- DEV:START -->
+- [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
 - [Getting into Digital Humanities II](https://dev.to/yuridevat/getting-into-digital-humanities-ii-1e6e)
 - [I passed the CPACC exam](https://dev.to/yuridevat/i-passed-the-cpacc-exam-1pam)
 - [Universal Design for Learning](https://dev.to/yuridevat/universal-design-for-learning-10ge)
 - [Getting Into Digital Humanities I](https://dev.to/yuridevat/getting-into-digital-humanities-i-2cg6)
-- [Find The Smallest Positive Integer Not Occurring In An Array - 3 Approaches](https://dev.to/yuridevat/find-the-smallest-positive-integer-not-occurring-in-an-array-3-approaches-53ka)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

@@ -87,13 +87,13 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 <div align="center">
-<img width="230" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+<img width="200" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
 <a href="https://github.com/YuriDevAT/sos-animals">
-<img width="305" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
-<img width="230" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+<img width="200" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="305" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
 </div>
 

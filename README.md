@@ -37,6 +37,7 @@
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
 -->
 </tr></tr></table> 
+
 <br />
 
 <table><tr><td valign="top" width="50%">
@@ -66,6 +67,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
   
 </tr></tr></table> 
+
+<br />
 
 <table><tr><td valign="top" width="40%">
 <h2 align="center"> 📕 Latest Blog Posts</h2>
@@ -99,8 +102,6 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 </tr></tr></table> 
 
-<br />
-
 <!-- 
 <h2 align="center">About me 😇</h2>
 
@@ -114,7 +115,6 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <p>:speech_balloon: Ask me about anything related to... accessibility. I am happy to help.</p>
 <p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
 -->
-<br />
 
 <!--
 <p align="center">

@@ -1,34 +1,49 @@
-<p>
-  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-</p>
-<p align="center">
+<h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<div align="center">
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 <a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
-</p>
+</div>
+  
 <br />
 
-<p align="center">I am an enthusiastic selftaught Accessibility & Frontend developer since 2020.</p>
-<p>I am a mentor by 💙 helping people switching careers into tech too. Therefore, you should check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
+<table><tr><td valign="top" width="50%">
+  
+<h3 align="center">About me 😇</h3>
+
+- :raising_hand: I am an enthusiastic selftaught frontend developer and accessibility advocate since 2020
+- :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
+- :speech_balloon: Ask me about anything related to accessibility. I am happy to help
+- 🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>
+- :ghost: Fun fact: I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself
+
+
+</td><td valign="top" width="50%">
 
 <h3 align="center">💟 Open Source & Community</h3>
 <br />
 
-<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are very welcome 😇.</p>
+- I am a mentor by 💙 helping people switching careers into tech too
+- Check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions on how to get into tech
+- I created an organization called <a href="https://github.com/YurisCodingClub">YurisCodingClub</a> to help others contribute to open source and get familiar with it.
+  
+  <div align="center">Beginners are very welcome 😇</div>
+  
 <br />
-
+<!--
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
-
+-->
+</tr></tr></table> 
 <br />
 
-<h3 align="center"> 💼 Languages and Tools</h3>
+<table><tr><td valign="top" width="50%">
+
+<h2 align="center"> 💼 Languages and Tools</h2>
 
 <br />
-
-<p align="center">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -45,28 +60,48 @@
 <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 -->
-</p>
+  
+</td><td valign="top" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
+  
+</tr></tr></table> 
 
-<br />
+<table><tr><td valign="top" width="40%">
+<h2 align="center"> 📕 Latest Blog Posts</h2>
+  
+<!-- DEV:START -->
+- [Best of 2022 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2022-recap-of-my-blog-posts-3bko)
+- [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
+- [Getting into Digital Humanities II](https://dev.to/yuridevat/getting-into-digital-humanities-ii-1e6e)
+- [I passed the CPACC exam](https://dev.to/yuridevat/i-passed-the-cpacc-exam-1pam)
+- [Universal Design for Learning](https://dev.to/yuridevat/universal-design-for-learning-10ge)
+<!-- DEV:END -->
+
+... [Read more articles on Dev.To](https://dev.to/yuridevat)
+
+I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
+
+</td><td valign="top" width="60%">
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
-<p>I was asked about these two projects a lot during my interviews - so check them out.</p>
-<br />
-<br />
-<p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+<div align="center">
+<img width="230" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+<a href="https://github.com/YuriDevAT/sos-animals">
+<img width="305" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+<img width="230" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<img width="305" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
-</p>
+</div>
+
+</tr></tr></table> 
 
 <br />
 
+<!-- 
 <h2 align="center">About me 😇</h2>
 
 <br />
@@ -78,8 +113,10 @@
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... accessibility. I am happy to help.</p>
 <p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
-
+-->
 <br />
+
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
@@ -92,17 +129,9 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 
 <br />
 <h2 align="center"> 📕 Latest Blog Posts</h2>
-
-<!-- DEV:START -->
-- [Best of 2022 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2022-recap-of-my-blog-posts-3bko)
-- [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
-- [Getting into Digital Humanities II](https://dev.to/yuridevat/getting-into-digital-humanities-ii-1e6e)
-- [I passed the CPACC exam](https://dev.to/yuridevat/i-passed-the-cpacc-exam-1pam)
-- [Universal Design for Learning](https://dev.to/yuridevat/universal-design-for-learning-10ge)
-<!-- DEV:END -->
-
+-->
+<!--
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)
 
 <p>I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝.</p>
-
-[![@yuridevat's Holopin board](https://holopin.me/yuridevat)](https://holopin.io/@yuridevat)
+-->

@@ -74,11 +74,11 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
   
 <!-- DEV:START -->
+- [Getting Into Digital Humanities III - Struggles With A Happy Ending](https://dev.to/yuridevat/getting-into-digital-humanities-iii-struggles-with-a-happy-ending-570c)
 - [Stop being afraid to speak in a foreign language](https://dev.to/yuridevat/stop-being-afraid-to-speak-in-a-foreign-language-1484)
 - [Accessibility in Visual Design - Visual Layout](https://dev.to/yuridevat/accessibility-in-visual-design-visual-layout-2j7l)
 - [My Journey To Becoming An A11y Expert: Current Status](https://dev.to/yuridevat/my-journey-to-becoming-an-a11y-expert-current-status-4of8)
 - [Best of 2022 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2022-recap-of-my-blog-posts-3bko)
-- [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

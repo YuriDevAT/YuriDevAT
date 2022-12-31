@@ -74,11 +74,11 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
   
 <!-- DEV:START -->
+- [Did I become a better programmer in 2022?](https://dev.to/yuridevat/did-i-become-a-better-programmer-in-2022-2a51)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak I](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-i-5f35)
 - [Getting Into Digital Humanities III - Struggles With A Happy Ending](https://dev.to/yuridevat/getting-into-digital-humanities-iii-struggles-with-a-happy-ending-570c)
 - [Stop being afraid to speak in a foreign language](https://dev.to/yuridevat/stop-being-afraid-to-speak-in-a-foreign-language-1484)
 - [Accessibility in Visual Design - Visual Layout](https://dev.to/yuridevat/accessibility-in-visual-design-visual-layout-2j7l)
-- [My Journey To Becoming An A11y Expert: Current Status](https://dev.to/yuridevat/my-journey-to-becoming-an-a11y-expert-current-status-4of8)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

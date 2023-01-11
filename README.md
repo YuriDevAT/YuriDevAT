@@ -74,11 +74,11 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
   
 <!-- DEV:START -->
+- [How To Find A Job With Soft Skills When Coding Skills Are Weak IV](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iv-123i)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak II](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-ii-3ge4)
 - [Did I become a better programmer in 2022?](https://dev.to/yuridevat/did-i-become-a-better-programmer-in-2022-2a51)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak I](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-i-5f35)
-- [Getting Into Digital Humanities III - Struggles With A Happy Ending](https://dev.to/yuridevat/getting-into-digital-humanities-iii-struggles-with-a-happy-ending-570c)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

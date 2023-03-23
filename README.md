@@ -74,11 +74,11 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
   
 <!-- DEV:START -->
+- [How debugging for accessibility helped me finally understand useRef](https://dev.to/yuridevat/how-debugging-for-accessibility-helped-me-finally-understand-useref-2jmp)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak VI](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-vi-943)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak V](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-v-2afn)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak IV](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iv-123i)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak II](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-ii-3ge4)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

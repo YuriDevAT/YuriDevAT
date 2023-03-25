@@ -9,21 +9,18 @@
   
 <br />
 
-<table><tr><td valign="top" width="50%">
-  
-<h3 align="center">About me 😇</h3>
+<h2 align="center">About me 😇</h2>
 
 - :raising_hand: I am an enthusiastic selftaught frontend developer and accessibility advocate since 2020
 - :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
 - :speech_balloon: Ask me about anything related to accessibility. I am happy to help
-- 🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>
+- 🏆 Winner (2 first places - out of over 230) at <a href="https://townhall.hashnode.com/debuggingfeb-writeathon-winners">Hashnode DebuggingFeb Writeathon</a>. Check out <a href="https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref">my articles for this Challenge</a>
+- 🏆 Winner (5 first places - out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/how-i-got-my-first-job-as-a-developer">my most engaged article for this Challenge</a>
 - :ghost: Fun fact: I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself
-
-
-</td><td valign="top" width="50%">
-
-<h3 align="center">💟 Open Source & Community</h3>
+  
 <br />
+  
+<h2 align="center">💟 Open Source & Community</h2>
 
 - I am a mentor by 💙 helping people switching careers into tech too
 - Check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions on how to get into tech
@@ -36,7 +33,6 @@
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
 -->
-</tr></tr></table> 
 
 <br />
 
@@ -66,11 +62,10 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
   
-</tr></tr></table> 
+</td></tr></table> 
 
 <br />
 
-<table><tr><td valign="top" width="40%">
 <h2 align="center"> 📕 Latest Blog Posts</h2>
   
 <!-- DEV:START -->
@@ -85,53 +80,26 @@
 
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
 
-</td><td valign="top" width="60%">
-
-<h2 align="center">My favorite projects 💻</h2>
-<br />
-<div align="center">
-<img width="200" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-<a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-<img width="200" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
-<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
-</div>
-
-</tr></tr></table> 
-
-<!-- 
-<h2 align="center">About me 😇</h2>
-
-<br />
-<p>🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>.</p>
-<p>🥳 One of the Runner Ups (out of over 30) at Clerk x Hashnode Hackathon July 2021 with my project <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a>.</p>
-<br />
-<p>:muscle: I am currently ... helping others to get into tech too by creating content, blog posts and open source projects.</p>
-<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... accessibility. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
--->
-
-<!--
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
-</p>
-
-<br />
-<p align="center">
-I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
-</p>
-
-<br />
-<h2 align="center"> 📕 Latest Blog Posts</h2>
--->
-<!--
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
-
-<p>I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝.</p>
--->
+<table align="center">
+  <tr>
+    <td valign="top" width="100%">
+      <h2 align="center">My favorite projects 💻</h2>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" halign="center" width="100%">
+      <img width="450" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+       <img width="450" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+     </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/YuriDevAT/sos-animals">
+        <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+      </a>
+      <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+        <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+      </a>  
+    </td>
+  </tr>
+</table>

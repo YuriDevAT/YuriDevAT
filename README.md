@@ -67,7 +67,14 @@
 <br />
 
 <h2 align="center"> 📕 Latest Blog Posts</h2>
-  
+
+### Blog Posts Hashnode
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
+... [Read more articles on Hashnode](https://yuridevat.hashnode.dev/)
+
+### Blog Posts Dev Community
 <!-- DEV:START -->
 - [Wordpress Calendar](https://dev.to/yuridevat/wordpress-calendar-1a9e)
 - [How debugging for accessibility helped me finally understand useRef](https://dev.to/yuridevat/how-debugging-for-accessibility-helped-me-finally-understand-useref-2jmp)

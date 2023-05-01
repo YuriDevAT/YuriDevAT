@@ -70,6 +70,7 @@
 
 ### Blog Posts Hashnode
 <!-- HASHNODE:START -->
+- [Develop Interview-Winning Portfolio Projects with MindsDB Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions)
 <!-- HASHNODE:END -->
 
 ... [Read more articles on Hashnode](https://yuridevat.hashnode.dev/)

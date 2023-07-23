@@ -11,7 +11,7 @@
 
 <h2 align="center">About me 😇</h2>
 
-- :raising_hand: I am aselftaught frontend developer and accessibility advocate since 2020
+- :raising_hand: I am a selftaught frontend developer and accessibility advocate since 2020
 - :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
 - :speech_balloon: Ask me about anything related to accessibility. I am happy to help
 - 🏆 Winner (2 first places - out of over 230) at <a href="https://townhall.hashnode.com/debuggingfeb-writeathon-winners">Hashnode DebuggingFeb Writeathon</a>. Check out <a href="https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref">my articles for this Challenge</a>

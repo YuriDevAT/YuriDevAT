@@ -77,11 +77,11 @@
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
+- [The Collab Lab - What It Is and Why You Should Get Involved With Them](https://dev.to/yuridevat/the-collab-lab-what-it-is-and-why-you-should-get-involved-with-them-p2m)
 - [Do you talk about side projects during employee appraisal and target agreement](https://dev.to/yuridevat/do-you-talk-about-side-projects-during-employee-appraisal-and-target-agreement-5134)
 - [Wordpress Calendar](https://dev.to/yuridevat/wordpress-calendar-1a9e)
 - [How debugging for accessibility helped me finally understand useRef](https://dev.to/yuridevat/how-debugging-for-accessibility-helped-me-finally-understand-useref-2jmp)
 - [How To Find A Job With Soft Skills When Coding Skills Are Weak VI](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-vi-943)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak V](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-v-2afn)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

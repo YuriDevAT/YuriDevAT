@@ -33,11 +33,9 @@
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
 -->
-
-<br />
-
-<table><tr><td valign="top" width="50%">
-
+<!--
+<table><tr><td valign="top">
+-->
 <h2 align="center"> 💼 Languages and Tools</h2>
 
 <br />
@@ -57,12 +55,13 @@
 <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 -->
-  
-</td><td valign="top" width="50%">
+  <!--
+</td>-->
+<!-- <td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
   
-</td></tr></table> 
+</td></tr></table> -->
 
 <br />
 
@@ -88,7 +87,7 @@
 
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td valign="top" width="100%">
       <h2 align="center">My favorite projects 💻</h2>
@@ -110,4 +109,4 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
       </a>  
     </td>
   </tr>
-</table>
+</table> -->

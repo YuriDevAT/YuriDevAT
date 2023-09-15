@@ -1,25 +1,25 @@
-<h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-<div align="center">
+# Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 <a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
-</div>
   
 <br />
 
-<h2 align="center">About me 😇</h2>
+I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
 
-- :raising_hand: I am a selftaught frontend developer and accessibility advocate since 2020
-- :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
-- :speech_balloon: Ask me about anything related to accessibility. I am happy to help
-- 🏆 Winner (2 first places - out of over 230) at <a href="https://townhall.hashnode.com/debuggingfeb-writeathon-winners">Hashnode DebuggingFeb Writeathon</a>. Check out <a href="https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref">my articles for this Challenge</a>
-- 🏆 Winner (5 first places - out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/how-i-got-my-first-job-as-a-developer">my most engaged article for this Challenge</a>
-- :ghost: Fun fact: I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself
+<br />
+
+I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where you can find articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
+
+<br />
+
+I am a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
+
   
 <br />
-  
+<!--
 <h2 align="center">💟 Open Source & Community</h2>
 
 - I am a mentor by 💙 helping people switching careers into tech too
@@ -29,16 +29,17 @@
   <div align="center">Beginners are very welcome 😇</div>
   
 <br />
-<!--
+
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
 ![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
 -->
 <!--
 <table><tr><td valign="top">
 -->
-<h2 align="center"> 💼 Languages and Tools</h2>
+## 💼 Languages and Tools
 
 <br />
+<div>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -50,6 +51,8 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  </div>
+  
 <!--
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
@@ -65,7 +68,7 @@
 
 <br />
 
-<h2 align="center"> 📕 Latest Blog Posts</h2>
+## 📕 Latest Blog Posts
 
 ### Blog Posts Hashnode
 <!-- HASHNODE:START -->

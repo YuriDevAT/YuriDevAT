@@ -11,7 +11,7 @@ I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos<
 
 <br />
 
-I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where you can find articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
+I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
 
 <br />
 

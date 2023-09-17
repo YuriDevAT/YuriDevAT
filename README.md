@@ -16,9 +16,17 @@ I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First
 <br />
 
 I am a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
-
   
 <br />
+
+## Achievements
+- 🏆 Runner Up - MindsDB x Hashnode Hackathon 2023. Check out my article about the project [Develop Interview Winning Portfolio Projects With Mindsdb Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions) article for this challenge.
+- 🏆 Winner - Hashnode DebuggingFeb Writeathon 2023. Check out my article [How Debugging For Accessibility Helped Me Finally Understand useRef](https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref) for this challenge.
+- 🏆 Winner - Hashnode Writeathon 4 articles 4 weeks 2022. Check out my most engaged article [How I got my first job as a developer](https://yuridevat.hashnode.dev/how-i-got-my-first-job-as-a-developer) for this challenge.
+- 🏆 Runner Up - Clerk x Hashnode Hackathon 2021. Check out my article about the project [SOS Animals App](https://yuridevat.hashnode.dev/sos-animals-hackathon-project) for this challenge.
+
+<br />
+
 <!--
 <h2 align="center">💟 Open Source & Community</h2>
 

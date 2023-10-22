@@ -85,7 +85,7 @@ I am a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
-- [Open Source for Accessibility and Inclusivity](https://dev.to/yuridevat/open-source-for-accessibility-and-inclusivity-2kjj)
+- [Open Source for Accessibility and Inclusivity - Pledge](https://dev.to/yuridevat/open-source-for-accessibility-and-inclusivity-2kjj)
 - [The Collab Lab - What It Is and Why You Should Get Involved With Them](https://dev.to/yuridevat/the-collab-lab-what-it-is-and-why-you-should-get-involved-with-them-p2m)
 - [Do you talk about side projects during employee appraisal and target agreement](https://dev.to/yuridevat/do-you-talk-about-side-projects-during-employee-appraisal-and-target-agreement-5134)
 - [Wordpress Calendar](https://dev.to/yuridevat/wordpress-calendar-1a9e)

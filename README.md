@@ -9,9 +9,11 @@
 
 I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
 
-I'm founder of <a href="https://www.yuriscodingclub.com/">YurisCodingClub</a>, the most inclusive open source community. The projects are part of <a href="https://hacktoberfest.com/">Hacktoberfest</a>.
+I am <a href="https://developers.google.com/community/experts">Google Developer Expert</a> for Web Development.
 
 I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
+
+I'm founder of <a href="https://www.yuriscodingclub.com/">YurisCodingClub</a>, the most inclusive open source community. The projects are part of <a href="https://hacktoberfest.com/">Hacktoberfest</a>.
 
 I am a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
   

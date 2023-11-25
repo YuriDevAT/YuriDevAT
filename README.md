@@ -87,11 +87,11 @@ I am a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
+- [Can tournament brackets be accessible?](https://dev.to/yuridevat/can-tournament-brackets-be-accessible-34og)
 - [Github: Reference a new issue](https://dev.to/yuridevat/reference-a-new-issue-3g5h)
 - [Hacktoberfest Maintainer Experience](https://dev.to/yuridevat/hacktoberfest-maintainer-experience-3n32)
 - [Hacktoberfest contributor on a11y issues](https://dev.to/yuridevat/contributor-on-a11y-issues-256b)
 - [How does @support work?](https://dev.to/yuridevat/how-support-works-4bf3)
-- [Open Source for Accessibility and Inclusivity - Pledge](https://dev.to/yuridevat/open-source-for-accessibility-and-inclusivity-2kjj)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

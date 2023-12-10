@@ -19,6 +19,16 @@ I am a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes
   
 <br />
 
+<!--
+
+## Pull Requests I am proud of 😇
+As an open source contributor, I attach great importance to adhering to guidelines, accurate work, detailed descriptions and much more. Developer communication is important to make the workflow simple and fluid and to guarantee a good developer experience. 
+
+I am therefore particularly proud of these PRs and issues, as they reflect my way of working very well:
+- https://github.com/EddieHubCommunity/BioDrop/pull/9770
+
+-->
+
 ## Achievements
 - 🏆 Runner Up - MindsDB x Hashnode Hackathon 2023. Check out my article about the project [Develop Interview Winning Portfolio Projects With Mindsdb Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions) article for this challenge.
 - 🏆 Winner - Hashnode DebuggingFeb Writeathon 2023. Check out my article [How Debugging For Accessibility Helped Me Finally Understand useRef](https://yuridevat.hashnode.dev/how-debugging-for-accessibility-helped-me-finally-understand-useref) for this challenge.

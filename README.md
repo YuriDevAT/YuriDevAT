@@ -97,11 +97,11 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
+- [Android cmdline-tools component is missing - Flutter installation issue](https://dev.to/yuridevat/android-cmdline-tools-component-is-missing-flutter-installation-issue-30e3)
 - [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
 - [How to create accessible tournament brackets with only HTML and CSS](https://dev.to/yuridevat/can-tournament-brackets-be-accessible-34og)
 - [Github: Reference a new issue](https://dev.to/yuridevat/reference-a-new-issue-3g5h)
 - [Hacktoberfest Maintainer Experience](https://dev.to/yuridevat/hacktoberfest-maintainer-experience-3n32)
-- [Hacktoberfest contributor on a11y issues](https://dev.to/yuridevat/contributor-on-a11y-issues-256b)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

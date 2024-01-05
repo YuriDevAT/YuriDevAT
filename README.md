@@ -97,11 +97,11 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
+- [CSS :has&lpar;&rpar; pseudo class](https://dev.to/yuridevat/css-has-pseudo-class-p6g)
 - [How to make CSS :has&lpar;&rpar; pseudo-class work on Firefox](https://dev.to/yuridevat/how-to-make-css-has-selector-work-on-firefox-1087)
 - [How to install Flutter on a MacBook](https://dev.to/yuridevat/how-to-install-flutter-on-a-macbook-1mad)
 - [Android cmdline-tools component is missing - Flutter installation issue](https://dev.to/yuridevat/android-cmdline-tools-component-is-missing-flutter-installation-issue-30e3)
 - [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
-- [How to create accessible tournament brackets with only HTML and CSS](https://dev.to/yuridevat/can-tournament-brackets-be-accessible-34og)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

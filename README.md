@@ -97,11 +97,11 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
+- [How accessible are Google Tools?](https://dev.to/yuridevat/how-accessible-are-google-tools-1fd9)
 - [Goals and Ambition for 2024 - JAPAN 🇯🇵 &amp; GDE 🤓](https://dev.to/yuridevat/goals-and-ambition-for-2024-japan-gde-5co5)
 - [🌟 #DEVImpact2023 - My Proudest Moments, Failures and Wins](https://dev.to/yuridevat/devimpact2023-my-proudest-moments-failures-and-wins-438e)
 - [CSS :has&lpar;&rpar; pseudo class](https://dev.to/yuridevat/css-has-pseudo-class-p6g)
 - [How to make CSS :has&lpar;&rpar; pseudo-class work on Firefox](https://dev.to/yuridevat/how-to-make-css-has-selector-work-on-firefox-1087)
-- [How to install Flutter on a MacBook](https://dev.to/yuridevat/how-to-install-flutter-on-a-macbook-1mad)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

@@ -97,7 +97,7 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
-- [Text modifications with HTML](https://dev.to/yuridevat/text-modifications-with-plain-html-4nmc)
+- [HTML can do this? Part 2](https://dev.to/yuridevat/text-modifications-with-plain-html-4nmc)
 - [Best of 2023 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2023-recap-of-my-blog-posts-57kl)
 - [Responsibilities of a Code of Conduct Responder](https://dev.to/yuridevat/responsibilities-of-a-code-of-conduct-responder-1n1f)
 - [How accessible are Google Tools?](https://dev.to/yuridevat/how-accessible-are-google-tools-1fd9)

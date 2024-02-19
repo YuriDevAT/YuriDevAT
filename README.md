@@ -97,11 +97,11 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 ### Blog Posts Dev Community
 <!-- DEV:START -->
+- [LeetCode 2667. Create Hello World Function &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2667-create-hello-world-function-easy-51n2)
 - [LeetCode 2620. Counter &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2620-counter-easy-5bm)
 - [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
 - [LeetCode 2634. Filter Elements from Array &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2634-filter-elements-from-array-easy-355i)
 - [How to create cool color contrast widgets design](https://dev.to/yuridevat/how-to-create-cool-color-contrast-widgets-design-57a)
-- [HTML can do this? Part 2](https://dev.to/yuridevat/text-modifications-with-plain-html-4nmc)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

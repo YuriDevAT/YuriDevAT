@@ -18,7 +18,7 @@ I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First
 Until Spring 2024
 - I was an Open Source Maintainer and founde of <a href="https://www.yuriscodingclub.com/">YurisCodingClub</a>, an inclusive open source community. The projects were part of <a href="https://hacktoberfest.com/">Hacktoberfest</a> to help CodeNewbies get into open source and tech from an early stage.
 - I was a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
-- I was regularly writing blog posts on DEV.to
+- I was regularly writing blog posts on DEV.to since 2021.
   
 <br />
 

@@ -8,6 +8,7 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update repo README with latest blog posts
+    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

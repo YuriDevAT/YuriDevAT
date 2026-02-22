@@ -40,11 +40,7 @@ I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First
 
 Read my latest blog posts about Accessibility, UX Research and more on <a href="https://accessibilityfirst.at/">Accessibility First</a> in German, English or Japanese.
 
-<!-- DEV:START -->
-
-- [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
-- [How to create cool color contrast widgets design](https://dev.to/yuridevat/how-to-create-cool-color-contrast-widgets-design-57a)
-  
+<!-- DEV:START -->  
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

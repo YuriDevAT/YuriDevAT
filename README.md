@@ -66,6 +66,8 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
 
 -->
 
+<br />
+
 ## Achievements
 - 📜 Certified Professional Web Accessibility (CPWA) by [IAAP](https://www.accessibilityassociation.org/cpwa).
 - 🏆 Runner Up - MindsDB x Hashnode Hackathon 2023. Check out my article about the project [Develop Interview Winning Portfolio Projects With Mindsdb Predictions](https://yuridevat.hashnode.dev/develop-interview-winning-portfolio-projects-with-mindsdb-predictions) article for this challenge.

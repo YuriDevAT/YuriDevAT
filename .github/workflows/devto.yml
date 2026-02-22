@@ -8,7 +8,6 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
-    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,5 +15,6 @@ jobs:
         with:
           comment_tag_name: 'DEV'
           feed_list: 'https://dev.to/feed/yuridevat'
+          max_post_count: 5
           commit_message: 'Update dev.to blog posts'
           gh_token: ${{ secrets.GITHUB_TOKEN }}

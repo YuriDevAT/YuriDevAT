@@ -43,11 +43,11 @@ Currently, I use these languages and tools on a regular basis.
 Read my latest blog posts about Accessibility, UX Research and more on <a href="https://accessibilityfirst.at/">Accessibility First</a> in German, English or Japanese.
 
 <!-- DEV:START -->
+- [Red Team vs Blue Team — I Choose You!](https://dev.to/yuridevat/red-team-vs-blue-team-i-choose-you-1ljp)
 - [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/yuridevat/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
 - [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
 - [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
 - [Styling by Language: Using the lang Attribute for Multilingual Design](https://dev.to/yuridevat/styling-by-language-using-the-lang-attribute-for-multilingual-design-1087)
-- [This is what I learned organizing an a11y webinar series for a year, now I&#39;m hosting my biggest hybrid event yet](https://dev.to/yuridevat/this-is-what-i-learned-organizing-an-a11y-webinar-series-for-a-year-now-im-hosting-my-biggest-5aef)
 <!-- DEV:END -->
 
 ... [Read more articles on Dev.To](https://dev.to/yuridevat)

@@ -44,7 +44,7 @@ Read my latest blog posts about Accessibility, UX Research and more on <a href="
 
 <!-- DEV:START -->
 - [Red Team vs Blue Team — I Choose You!](https://dev.to/yuridevat/red-team-vs-blue-team-i-choose-you-1ljp)
-- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/yuridevat/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
+- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/gdg/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
 - [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
 - [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
 - [Styling by Language: Using the lang Attribute for Multilingual Design](https://dev.to/yuridevat/styling-by-language-using-the-lang-attribute-for-multilingual-design-1087)
